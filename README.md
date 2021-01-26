@@ -2,8 +2,8 @@
 <table style="width:100%">
 <tr>
   <td align="center">Nombre</td>
-<td align="center">Version</td>
-<td align="center">Link pagina</td>
+<td align="center">Versión</td>
+<td align="center">Link página</td>
 <td align="center">Link descarga</td>
 </tr>
 <tr>
